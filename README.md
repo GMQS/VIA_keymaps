@@ -1,5 +1,7 @@
 # JSONの書式
 
+https://www.caniusevia.com/docs/specification
+
 ## matrix
 オブジェクト形式。`rows`キーに行数、`cols`キーに列数を指定。
 
